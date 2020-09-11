@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=kuzgunv2.0.SchDoc
+Record=SheetSymbol|SourceDocument=kuzgunv2.0.SchDoc|Designator=U_3V_Regulation|SchDesignator=U_3V_Regulation|FileName=3V_Regulation.SchDoc|SymbolType=Normal|RawFileName=3V_Regulation.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=kuzgunv2.0.SchDoc|Designator=U_5V_Regulation|SchDesignator=U_5V_Regulation|FileName=5V_Regulation.SchDoc|SymbolType=Normal|RawFileName=5V_Regulation.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=kuzgunv2.0.SchDoc|Designator=U_Power_Switch|SchDesignator=U_Power_Switch|FileName=Power_Switch.SchDoc|SymbolType=Normal|RawFileName=Power_Switch.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
